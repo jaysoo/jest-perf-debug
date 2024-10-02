@@ -1,0 +1,9 @@
+{
+  "name": "lib-461",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/lib-461/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project lib-461 --web",
+  "targets": {}
+}

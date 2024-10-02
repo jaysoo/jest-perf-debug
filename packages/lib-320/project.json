@@ -1,0 +1,9 @@
+{
+  "name": "lib-320",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/lib-320/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project lib-320 --web",
+  "targets": {}
+}

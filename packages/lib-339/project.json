@@ -1,0 +1,9 @@
+{
+  "name": "lib-339",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/lib-339/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project lib-339 --web",
+  "targets": {}
+}

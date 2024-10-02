@@ -1,0 +1,9 @@
+{
+  "name": "lib-283",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/lib-283/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project lib-283 --web",
+  "targets": {}
+}

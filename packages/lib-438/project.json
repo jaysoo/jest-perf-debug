@@ -1,0 +1,9 @@
+{
+  "name": "lib-438",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/lib-438/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project lib-438 --web",
+  "targets": {}
+}

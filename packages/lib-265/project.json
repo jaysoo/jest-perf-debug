@@ -1,0 +1,9 @@
+{
+  "name": "lib-265",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/lib-265/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project lib-265 --web",
+  "targets": {}
+}
