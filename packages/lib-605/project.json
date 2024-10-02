@@ -1,0 +1,9 @@
+{
+  "name": "lib-605",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/lib-605/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project lib-605 --web",
+  "targets": {}
+}

@@ -1,0 +1,9 @@
+{
+  "name": "lib-526",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/lib-526/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project lib-526 --web",
+  "targets": {}
+}

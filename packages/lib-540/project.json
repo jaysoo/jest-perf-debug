@@ -1,0 +1,9 @@
+{
+  "name": "lib-540",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/lib-540/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project lib-540 --web",
+  "targets": {}
+}

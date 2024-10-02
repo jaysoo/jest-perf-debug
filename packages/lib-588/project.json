@@ -1,0 +1,9 @@
+{
+  "name": "lib-588",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/lib-588/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project lib-588 --web",
+  "targets": {}
+}

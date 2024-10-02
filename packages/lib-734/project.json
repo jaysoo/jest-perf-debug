@@ -1,0 +1,9 @@
+{
+  "name": "lib-734",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/lib-734/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project lib-734 --web",
+  "targets": {}
+}

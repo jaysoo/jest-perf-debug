@@ -1,0 +1,9 @@
+{
+  "name": "lib-775",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/lib-775/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project lib-775 --web",
+  "targets": {}
+}

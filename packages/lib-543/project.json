@@ -1,0 +1,9 @@
+{
+  "name": "lib-543",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/lib-543/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project lib-543 --web",
+  "targets": {}
+}
