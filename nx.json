@@ -24,7 +24,8 @@
     {
       "plugin": "@nx/jest/plugin",
       "options": {
-        "targetName": "test"
+        "targetName": "test",
+        "ciTargetName": "test-ci"
       }
     }
   ]
