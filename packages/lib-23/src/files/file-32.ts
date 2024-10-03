@@ -1,0 +1,1 @@
+export const file32 = 'file32';

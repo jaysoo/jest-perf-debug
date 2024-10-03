@@ -1,0 +1,1 @@
+export const file36 = 'file36';
