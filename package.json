@@ -5,6 +5,7 @@
   "scripts": {},
   "private": true,
   "dependencies": {
+    "@nx/devkit": "19.8.3",
     "jest-environment-jsdom": "^29.7.0",
     "jest-preset-angular": "^14.2.4"
   },
@@ -14,8 +15,10 @@
     "@nx/eslint-plugin": "19.8.3",
     "@nx/jest": "19.8.3",
     "@nx/js": "19.8.3",
+    "@nx/plugin": "19.8.3",
     "@nx/workspace": "19.8.3",
     "@swc-node/register": "~1.9.1",
+    "@swc/cli": "~0.3.12",
     "@swc/core": "~1.5.7",
     "@swc/helpers": "~0.5.11",
     "@types/jest": "^29.5.12",

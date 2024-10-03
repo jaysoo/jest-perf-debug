@@ -1,0 +1,9 @@
+{
+  "generators": {
+    "gen-files": {
+      "factory": "./src/generators/gen-files/generator",
+      "schema": "./src/generators/gen-files/schema.json",
+      "description": "tools/workspace-plugin/src/generators/gen-files generator"
+    }
+  }
+}
