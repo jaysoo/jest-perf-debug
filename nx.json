@@ -20,7 +20,7 @@
       "options": {
         "targetName": "test",
         "ciTargetName": "test-ci",
-        "useExperimentalConfigLoader": false,
+        "useExperimentalConfigLoader": true,
         "useExperimentalAstParser": false
       }
     }
