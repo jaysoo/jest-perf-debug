@@ -21,7 +21,7 @@
         "targetName": "test",
         "ciTargetName": "test-ci",
         "useExperimentalConfigLoader": false,
-        "useExperimentalAstParser": false
+        "useExperimentalAstParser": true
       }
     }
   ],
